@@ -59,7 +59,7 @@ export const projectsData = [
         description: "Jyoti Fashion House is a fashion-focused e-commerce platform designed to showcase and sell clothing products with a clean, modern, and user-friendly interface. As a Frontend Developer, I was responsible for building and optimizing the customer-facing experience to ensure smooth navigation, fast load times, and responsive design across devices.",
         tools: ['NextJS', 'Material UI', 'Bootstrap', 'SSR'],
         code: '',
-        demo: 'https://www.jyotifashionhouse.com/',
+        demo: 'https://www.jyotisfashionhouse.com/',
         role: 'Frontend Developer',
     },
     {
