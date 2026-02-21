@@ -70,6 +70,15 @@ export const projectsData = [
         code: '',
         demo: 'https://www.tapewalmer.in/',
         role: 'Frontend Developer',
+    },
+    {
+        id: 9,
+        name: 'Bhagavad Gita AI',
+        description: "This Bhagavad Gita AI is an AI-powered spiritual assistant built with Next.js, Groq LLM, and PostgreSQL (pgvector). It uses Retrieval Augmented Generation (RAG) to provide emotionally supportive and contextually accurate guidance based on verses from the Bhagavad Gita.",
+        tools: ['NextJS', 'Material UI', 'Bootstrap', 'LangChain', 'HuggingFace', 'Groq', 'PostgreSQL', 'PGVector'],
+        code: '',
+        demo: 'https://bhagavad-gita-ai-ask.vercel.app/',
+        role: 'Full Stack Developer',
     }
 ];
 
