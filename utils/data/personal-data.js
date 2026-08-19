@@ -1,8 +1,8 @@
 export const personalData = {
   name: "Avinash Chaurasia",
   profile: '/profile.jpg',
-  designation: "SDE - Full Stack Developer",
-  description: "I am Avinash Chaurasia, a professional and enthusiastic programmer. I am a quick learner with a self-learning attitude. I love to learn and explore new technologies and am passionate about problem-solving. I love almost all the stacks of web application development and love to make the web more open to the world. My core skill is based on JavaScript and I love to do most of the things using JavaScript. I am available for any kind of job opportunity that suits my skills and interests.",
+  designation: "SDE - Full Stack Engineer",
+  description: "An SDE - Full Stack Engineer with 2+ years shipping production Next.js/Node.js applications, specializing in performance optimization(64% load-time reduction) and AI-integrated tooling(LangChain RAG pipelines). Comfortable owning features end-to-end, from UI to database to deployment. I am available for any kind of job opportunity that suits my skills and interests.",
   email: 'pixelavii007@gmail.com',
   phone: '+916388846231',
   address: 'Gurgaon, Haryana (India)',
