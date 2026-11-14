@@ -115,6 +115,8 @@ function HeroSection() {
                 <span className="text-gray-400">{"', '"}</span>
                 <span className="text-amber-300">FastAPI</span>
                 <span className="text-gray-400">{"', '"}</span>
+                <span className="text-amber-300">Redis</span>
+                <span className="text-gray-400">{"', '"}</span>
                 <span className="text-amber-300">PostgreSQL</span>
                 <span className="text-gray-400">{"', '"}</span>
                 <span className="text-amber-300">MongoDB</span>
@@ -123,6 +125,8 @@ function HeroSection() {
                 <span className="text-gray-400">{"', '"}</span>
                 <span className="text-amber-300">Github Actions</span>
                 <span className="text-gray-400">{"', '"}</span>
+                <span className="text-amber-300">CI/CD</span>
+                <span className="text-gray-400">{"', '"}</span>
                 <span className="text-amber-300">Langchain</span>
                 <span className="text-gray-400">{"', '"}</span>
                 <span className="text-amber-300">RAG</span>
@@ -130,6 +134,8 @@ function HeroSection() {
                 <span className="text-amber-300">Agentic AI</span>
                 <span className="text-gray-400">{"', '"}</span>
                 <span className="text-amber-300">GenAI</span>
+                <span className="text-gray-400">{"', '"}</span>
+                <span className="text-amber-300">MCP</span>
                 <span className="text-gray-400">{"', '"}</span>
                 <span className="text-amber-300">PGVector</span>
                 <span className="text-gray-400">{"'],"}</span>
