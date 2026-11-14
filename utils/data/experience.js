@@ -1,7 +1,7 @@
 export const experiences = [
   {
     id: 1,
-    title: 'SDE - Full Stack',
+    title: 'Software Engineer',
     company: "InRain Pvt. Ltd.",
     duration: "(Jul 2024 - Present)"
   },
