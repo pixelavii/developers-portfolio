@@ -5,6 +5,7 @@ export const skillsData = [
   'C',
   'Java',
   'React',
+  'React Native',
   'Next JS',
   'Tailwind',
   'Node JS',
@@ -26,7 +27,9 @@ export const skillsData = [
   'MaterialUI',
   'Nginx',
   'LangChain',
-  'RAG'
+  'RAG',
+  'MCP',
+  'GenAI'
 ]
 
 // Choose your skills from below. Make sure it's in the same format and spelled correctly.
